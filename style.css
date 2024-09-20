@@ -1,0 +1,38 @@
+#chineseHeading {
+    color: red;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#pinheading {
+    font-weight: 100;
+    color: wheat;
+    font-style: italic;
+}
+
+#mheading {
+    color: aqua;
+}
+
+h2 {
+    font-style: oblique;
+    color: chartreuse;
+}
+
+.introp {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.abc {
+    font-style: italic;
+    font-weight: 700;
+}
+
+.abcd {
+    font-style: italic;
+    font-weight: 700;
+}
+
+.mtext {
+    font-family: Arial, Helvetica, sans-serif;
+}
